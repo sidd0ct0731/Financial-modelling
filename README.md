@@ -1,1 +1,3 @@
-# Financial-modelling
+
+# Options Pricing and Hedging: A Comprehensive Financial Modeling Project
+Led a dynamic team in executing Group Work Project , where I applied the Black-Scholes closed-form solution and Monte Carlo simulations for comprehensive options pricing and hedging. Leveraging these methods, I meticulously priced European and American options, ensuring the project's rigor. Collaboration with team members included verifying Put-Call parity, conducting a comparative analysis of pricing methods, and exploring delta-hedging strategies for portfolios. The project delved into the intricate relationship between option prices and moneyness, graphically representing findings. This experience enriched my financial modeling skills, deepened my understanding of risk management, and honed my ability to analyze complex derivative instruments.
